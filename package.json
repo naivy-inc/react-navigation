@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@react-navigation/core": "^3.5.1",
-    "@react-navigation/native": "^3.6.2"
+    "@react-navigation/native": "github:naivy-inc/native#86c9821a5774d4772a4b37a88940c6d76bc7e6b8"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^8.0.0",
